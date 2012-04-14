@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="padding">8dp</dimen>
+    <dimen name="border">2dp</dimen>
+    <dimen name="negborder">-3dp</dimen>
+    <dimen name="margin">50dp</dimen>
+    <item name="gradient_radius" type="integer">500</item>
+    
+</resources>

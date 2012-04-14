@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="borderLow">#999</color>
+    <color name="borderHigh">#DDD</color>
+    
+    <color name="gradientStart">#DDD</color>
+    <color name="gradientEnd">#BBB</color>
+    
+</resources>
