@@ -4,6 +4,10 @@
     <dimen name="border">2dp</dimen>
     <dimen name="negborder">-3dp</dimen>
     <dimen name="margin">50dp</dimen>
+    <dimen name="text">64sp</dimen>
     <item name="gradient_radius" type="integer">500</item>
+    <item name="shadowDx" type="integer">2</item>
+    <item name="shadowDy" type="integer">2</item>
+    <item name="shadowRadius" type="integer">4</item>
     
 </resources>

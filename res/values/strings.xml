@@ -3,5 +3,6 @@
 
     <string name="hello">Hello World, MoreVectorDrawablesActivity!</string>
     <string name="app_name">MoreVectorDrawables</string>
+    <string name="stylingandroid">Styling Android</string>
 
 </resources>

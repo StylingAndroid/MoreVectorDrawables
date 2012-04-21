@@ -6,4 +6,6 @@
     <color name="gradientStart">#DDD</color>
     <color name="gradientEnd">#BBB</color>
     
+    <color name="text">#999</color>
+    <color name="shadow">#FFFFFF</color>
 </resources>
